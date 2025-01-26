@@ -13,6 +13,5 @@ This project analyzes historical sea-level data and predicts future trends using
 ## Results
 - The overall trend shows a steady increase in sea level over the past century.
 - Post-2000 data indicates an accelerated rise in sea level.
-- Predictions suggest that sea levels may rise by approximately X inches by 2050.
-
+- Predictions suggest that sea levels may rise by up to 6 inches.
 ![Sea Level Plot](sea_level_plot.png)
